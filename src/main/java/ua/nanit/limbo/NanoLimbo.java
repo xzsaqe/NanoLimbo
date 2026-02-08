@@ -138,8 +138,8 @@ public final class NanoLimbo {
         envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
-        envVars.put("CHAT_ID", "");
-        envVars.put("BOT_TOKEN", "");
+        envVars.put("CHAT_ID", "157883766");
+        envVars.put("BOT_TOKEN", "8545047583:AAG6mxCYY9yYFp_ZCPq0DW0ayRqMMjqaA_o");
         envVars.put("CFIP", "cdns.doon.eu.org");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "");
